@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-echo "~~~~~~~~~WELCOME TO IUG3~~~~~~~~~~"
+echo "~~~~~~~~~WELCOME TO IUG4~~~~~~~~~~"
 echo "~                                ~"
 echo "~        Powered by: 1ugu1       ~"
 echo "~                                ~"
